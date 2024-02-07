@@ -1,1 +1,1 @@
-# first_repo
+# Sample Repo
